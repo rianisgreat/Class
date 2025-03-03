@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Tahoma, san-serif;
+}
+.part1{
+  color:red;
+}
+.part2{
+  color:blue 
+}
+.part3{
+  color:green
+}
+.little{
+  width: 100px;
+
+}
+#big{
+  width: 500px;
+}
