@@ -1,0 +1,32 @@
+@font-face {
+  font-family:MyFont ;
+  src: url(Greek-Freak.ttf);
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Verdana;
+}
+h1{
+  font-family: MyFont;
+}
+
+
+.part1{
+  color:red;
+}
+.part2{
+  color:blue 
+}
+.part3{
+  color:green
+}
+.little{
+  width: 100px;
+
+}
+#big{
+  width: 500px;
+}
